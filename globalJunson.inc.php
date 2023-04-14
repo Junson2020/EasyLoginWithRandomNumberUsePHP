@@ -1,0 +1,9 @@
+<?php
+$JUNSON_WEB_ROOT="/ap/www/html";
+$JUNSON_DB_USER="JUNSON_USER";
+$JUNSON_DB_ACCOUNT="junson";
+$JUNSON_DB_PASSWORD="junson2020";
+$JUNSON_DB_HOST="localhost";
+$JUNSON_DEFAULT_SESSION_TIMEOUT=6;
+$JUNSON_COMMON_INC="commonJunson.inc.php";
+?>
