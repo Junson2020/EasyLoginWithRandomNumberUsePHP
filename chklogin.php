@@ -28,7 +28,7 @@ if($stepOne!="NULL") {
 		$today=getdate();
     $starttime=mktime($today["hours"],$today["minutes"],$today["seconds"],$today["mon"],$today["mday"],$today["year"]);
     $endtime=$starttime+(3600*$JUNSON_DEFAULT_SESSION_TIMEOUT); 
-		InsSuccessLogin($username,$uName,$stepTwo,$endtime,$uGroup,$uLanguage);
+		InsSuccessLogin($username,$uName,$junsonlicense,$endtime,$uGroup,$uLanguage);
 		echo "OK";
 	}else {
 		echo "Randnumber";
