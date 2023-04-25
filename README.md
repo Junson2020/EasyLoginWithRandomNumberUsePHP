@@ -1,6 +1,6 @@
-#A Simple Http Login 
+#A Simple Http Login (簡單的網頁登入系統)
 
-Requirement:
+Requirement: (需要軟體)
 
  apache
  
@@ -8,7 +8,7 @@ Requirement:
  
  mariadb
 
-Setup:
+Setup: (安裝與設定)
 
  include/
  
@@ -34,4 +34,8 @@ Setup:
  
   easylogindb.sql
  
+ note:
  
+   mariadb connection databaesname/username/password config in globalJunson.inc.php
+   
+   mariadb 連接 資料庫名稱/帳號/密碼 設定於 globalJunson.inc.php
