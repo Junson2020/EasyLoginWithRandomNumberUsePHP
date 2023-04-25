@@ -1,4 +1,4 @@
-#A Simple Http Login (簡單的網頁登入系統)
+#A Simple Http Login (簡單且有驗證碼的網頁登入系統)
 
 Requirement: (需要軟體)
 
