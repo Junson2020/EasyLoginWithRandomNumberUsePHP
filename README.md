@@ -34,7 +34,7 @@ Setup: (安裝與設定)
  
   easylogindb.sql
  
- note:
+ note: (備註)
  
    mariadb connection databaesname/username/password config in globalJunson.inc.php
    
