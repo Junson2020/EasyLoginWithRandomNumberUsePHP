@@ -39,3 +39,7 @@ Setup: (安裝與設定)
    mariadb connection databaesname/username/password config in globalJunson.inc.php
    
    mariadb 連接 資料庫名稱/帳號/密碼 設定於 globalJunson.inc.php
+
+   need to truncate table randpswd/userlicenseall eyery day
+   
+   最好每天清除randpswd/userlicenseall資料表內的資料
